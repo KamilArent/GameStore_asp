@@ -1,0 +1,48 @@
+﻿@using Models
+
+<div class="modal fade" id="deleteModal" tabindex="-1" aria-labelledby="deleteModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="deleteModalLabel">@deleteGame</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                @title
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"
+                    @onclick="CancelForm">Anuluj</button>
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal"
+                    @onclick="ConfirmForm">@deleteGame</button>
+            </div>
+        </div>
+    </div>
+</div>
+@code {
+
+    [Parameter]
+    public Game? gra { get; set; }
+
+    [Parameter]
+    public EventCallback<bool> OnClose { get; set; }
+
+    string deleteGame = string.Empty;
+    string title = string.Empty;
+
+    protected override void OnParametersSet()
+    {
+        title = $"Czy na pewno chcesz usunąć {gra!.Name}";
+        deleteGame = $"Usuń {gra!.Name}";
+    }
+
+    private void CancelForm()
+    {
+        OnClose.InvokeAsync(false);
+    }
+
+    private void ConfirmForm()
+    {
+        OnClose.InvokeAsync(true);
+    }
+}

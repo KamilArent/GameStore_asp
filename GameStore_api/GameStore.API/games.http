@@ -1,0 +1,29 @@
+GET http://localhost:5167/games
+
+###
+GET http://localhost:5167/games/2
+
+###
+POST http://localhost:5167/games
+Content-Type: application/json
+
+{
+    "name": "Counter Strike 2",
+    "genre": "Fighting",
+    "price": 9.99,
+    "realeaseDATE": "2023-08-29"
+}
+
+###
+PUT http://localhost:5167/games/4
+Content-Type: application/json
+
+{
+    "name": "Vampire Surviour",
+    "genre": "Kids",
+    "price": 5.99,
+    "realeaseDATE": "2022-06-22"
+}
+
+###
+DELETE http://localhost:5167/games/4

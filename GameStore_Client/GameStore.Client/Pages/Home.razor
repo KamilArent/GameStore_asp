@@ -1,0 +1,88 @@
+﻿@page "/"
+@using Models
+@inject NavigationManager NavigationManager
+@inject Services.GameClientService GameClientService
+
+<PageTitle>Katalog gier</PageTitle>
+
+<h1>Katalog gier</h1>
+
+@if (gry is null) //pokazuje błąd ale działa
+{
+    <p>Błąd podczas pobierania katalogu gier</p>
+}
+else
+{
+    <DeleteGame OnClose="@RemoveGame" gra="@wybranaGra"></DeleteGame>
+
+    <table class="table table-bordered table-dark">
+        <thead>
+            <th scope="col">Id</th>
+            <th scope="col">Nazwa</th>
+            <th scope="col">Gatunek</th>
+            <th scope="col">Cena</th>
+            <th scope="col">Rok produkcji</th>
+            <th scope="col">Edycja</th>
+        </thead>
+        <tbody>
+            @foreach (var gra in gry) //pokazuje błąd ale działa
+            {
+                <tr>
+                    <td scope="row">@gra.Id</td>
+                    <td>@gra.Name</td>
+                    <td>@gra.Genre</td>
+                    <td>@gra.Price</td>
+                    <td>@gra.RealeaseDate.ToString("yyyy")</td>
+                    <td>
+                        <button class="btn btn-primary" @onclick="(() => NavigateToEditGame(gra.Id))">
+                            <i class="oi oi-pencil"></i>
+                        </button>
+                        <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal"
+                            @onclick="(() => wybranaGra= gra)">
+                            <i class="oi oi-x"></i>
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<div class="d-grid gap-2 d-md-flex justify-content-md-end">
+    <button type="button" class="btn btn-dark me-md-2" @onclick="NavigateToAddGame">Dodaj gre</button>
+</div>
+
+
+
+
+
+@code {
+    private Game[]? gry;
+    private Game? wybranaGra;
+    protected override async Task OnInitializedAsync()
+    {
+        IEnumerable<Game> temp = await GameClientService.GetGamesAsync();
+        gry = temp.ToArray();
+
+    }
+    private void NavigateToAddGame()
+    {
+        NavigationManager.NavigateTo("/Add");
+    }
+
+    private void NavigateToEditGame(int id)
+    {
+        NavigationManager.NavigateTo($"/Edit/{id}");
+    }
+
+    private async Task RemoveGame(bool accepted)
+    {
+        if (accepted)
+        {
+            await GameClientService.DeleteGameAsync(wybranaGra.Id);
+            IEnumerable<Game> temp = await GameClientService.GetGamesAsync();
+            gry = temp.ToArray();
+        }
+
+    }
+}

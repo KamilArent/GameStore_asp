@@ -1,0 +1,108 @@
+﻿@page "/Add"
+@page "/Edit/{id:int}"
+@using Models
+@inject NavigationManager NavigationManager
+@inject Services.GameClientService GameClientService
+@inject Services.GenreClientServices GenreClientServices
+
+<PageTitle>@title</PageTitle>
+<h1>Katalog gier</h1>
+<h3>@title</h3>
+
+
+<div class="form-group col-sm-4">
+    <EditForm Model="@gra" OnValidSubmit="SubmitFormAsync">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+        <div class="form-group">
+            <label for="name">Name</label>
+            <InputText id="name" @bind-Value="gra!.Name" class="form-control"></InputText>
+        </div>
+        <div class="form-group">
+            <label for="Genre">Genre</label>
+            <InputSelect id="Genre" @bind-Value="gra.Genre" class="form-select">
+                @foreach (var kategoria in kategorie)
+                {
+                    <option value="@kategoria" selected>@kategoria</option>
+                }
+            </InputSelect>
+        </div>
+        <div class="form-group">
+            <label for="Price">Price</label>
+            <InputNumber id="Price" @bind-Value="gra.Price" class="form-control" step="0.01">
+            </InputNumber>
+        </div>
+        <div class="form-group">
+            <label for="data">Rok produkcji</label>
+            <InputDate id="data" @bind-Value="gra.RealeaseDate" class="form-control">
+            </InputDate>
+        </div>
+        <div class="row">
+            <button type="button" class="btn btn-dark m-3 col" @onclick="CancelForm">Anuluj</button>
+            <button type="submit" class="btn btn-dark m-3 col">@dodaj_edytuj</button>
+        </div>
+
+    </EditForm>
+</div>
+
+@code {
+    [Parameter]
+    public int? id { get; set; }
+
+    private string[] kategorie;
+    private Game? gra;
+    private string title = string.Empty;
+    private string dodaj_edytuj = string.Empty;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        IEnumerable<Genre> temp = await GenreClientServices.GetGenresAsync();
+        kategorie = temp.Select(g => g.Name).ToArray();
+
+        if (id is not null)
+        {
+            gra = await GameClientService.GetGameAsync(id);
+            title = $"Edytowanie {gra.Name}";
+            dodaj_edytuj = "Edytuj";
+        }
+        else
+        {
+            gra = new()
+                {
+                    Name = string.Empty,
+                    RealeaseDate = DateOnly.FromDateTime(DateTime.Now),
+                    Genre = string.Empty
+                };
+
+            title = $"Dodawanie nowej gry";
+            dodaj_edytuj = "Dodaj";
+        }
+    }
+
+    private async Task SubmitFormAsync()
+    {
+        GameToAdd game = new()
+            {
+                Name = gra.Name,
+                Genre = gra.Genre,
+                Price = gra.Price,
+                RealeaseDate = gra.RealeaseDate
+            };
+        if (id is null)
+        {
+
+            await GameClientService.AddGameAsync(game);
+        }
+        else
+        {
+            await GameClientService.UpdateGameAsync(id, game);
+        }
+
+        NavigationManager.NavigateTo("/");
+    }
+
+    private void CancelForm()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+}

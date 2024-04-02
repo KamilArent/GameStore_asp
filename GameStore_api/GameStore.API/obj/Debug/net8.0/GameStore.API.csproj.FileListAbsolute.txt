@@ -1,0 +1,419 @@
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\appsettings.Development.json
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\appsettings.json
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\GameStore.API.exe
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\GameStore.API.deps.json
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\GameStore.API.runtimeconfig.json
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\GameStore.API.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\GameStore.API.pdb
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\GameStore.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\GameStore.API.AssemblyInfoInputs.cache
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\GameStore.API.AssemblyInfo.cs
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\GameStore.API.csproj.CoreCompileInputs.cache
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\GameStore.API.MvcApplicationPartsAssemblyInfo.cache
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\staticwebassets\msbuild.GameStore.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\staticwebassets\msbuild.build.GameStore.API.props
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.API.props
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GameStore.API.props
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\scopedcss\bundle\GameStore.API.styles.css
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\GameStore.API.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\refint\GameStore.API.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\GameStore.API.pdb
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\GameStore.API.genruntimeconfig.cache
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\ref\GameStore.API.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\MinimalApis.Extensions.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\MiniValidation.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\GameStore.API.csproj.AssemblyReference.cache
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\GameStore.API.MvcApplicationPartsAssemblyInfo.cs
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\obj\Debug\net8.0\GameStor.26D12FD2.Up2Date
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Humanizer.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\studia\6 semestr\obiektowe\Testowa_strona_back\GameStore.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\appsettings.Development.json
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\appsettings.json
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\GameStore.API.exe
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\GameStore.API.deps.json
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\GameStore.API.runtimeconfig.json
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\GameStore.API.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\GameStore.API.pdb
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Humanizer.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\MinimalApis.Extensions.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\MiniValidation.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\System.CodeDom.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\System.Text.Json.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStore.API.csproj.AssemblyReference.cache
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStore.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStore.API.AssemblyInfoInputs.cache
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStore.API.AssemblyInfo.cs
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStore.API.csproj.CoreCompileInputs.cache
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStore.API.MvcApplicationPartsAssemblyInfo.cs
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStore.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStore.API.sourcelink.json
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\staticwebassets.build.json
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\staticwebassets.development.json
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\staticwebassets\msbuild.GameStore.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\staticwebassets\msbuild.build.GameStore.API.props
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.API.props
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GameStore.API.props
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\scopedcss\bundle\GameStore.API.styles.css
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStor.26D12FD2.Up2Date
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStore.API.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\refint\GameStore.API.dll
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStore.API.pdb
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\GameStore.API.genruntimeconfig.cache
+D:\GameStore\GameStore.API\GameStore_api\GameStore.api\obj\Debug\net8.0\ref\GameStore.API.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\appsettings.Development.json
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\appsettings.json
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\GameStore.API.exe
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\GameStore.API.deps.json
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\GameStore.API.runtimeconfig.json
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\GameStore.API.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\GameStore.API.pdb
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Humanizer.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\MinimalApis.Extensions.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\MiniValidation.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\System.Text.Json.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\test\GameStore_api\Gamestore.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStore.API.csproj.AssemblyReference.cache
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStore.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStore.API.AssemblyInfoInputs.cache
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStore.API.AssemblyInfo.cs
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStore.API.csproj.CoreCompileInputs.cache
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStore.API.MvcApplicationPartsAssemblyInfo.cs
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStore.API.MvcApplicationPartsAssemblyInfo.cache
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStore.API.sourcelink.json
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\staticwebassets\msbuild.GameStore.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\staticwebassets\msbuild.build.GameStore.API.props
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.API.props
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GameStore.API.props
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\scopedcss\bundle\GameStore.API.styles.css
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStor.26D12FD2.Up2Date
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStore.API.dll
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\refint\GameStore.API.dll
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStore.API.pdb
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\GameStore.API.genruntimeconfig.cache
+D:\test\GameStore_api\Gamestore.API\obj\Debug\net8.0\ref\GameStore.API.dll
